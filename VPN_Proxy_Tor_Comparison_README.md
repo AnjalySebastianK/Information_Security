@@ -59,8 +59,6 @@ Understanding the differences between **VPNs**, **Proxies**, and **Tor** is cruc
 - Provider can log all traffic  
 - Susceptible to **man-in-the-middle (MITM) attacks** if malicious 
 
-![Proxy Diagram](https://marvel-b1-cdn.bc0a.com/f00000000310757/www.fortinet.com/content/dam/fortinet/images/cyberglossary/proxy-server-1.jpeg)
-
 ---
 
 ## Tor (The Onion Router)
@@ -87,11 +85,7 @@ Understanding the differences between **VPNs**, **Proxies**, and **Tor** is cruc
 
 ---
 
-![Tor Diagram](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ1fi6FUBDP09gR7Rk0LYrKtfwWbvU7mb1MQ&s)
-
----
-
-## 📊 Feature Comparison Table
+## Feature Comparison Table
 
 | Feature             | VPN                          | Proxy                  | Tor                    |
 |---------------------|------------------------------|------------------------|------------------------|
