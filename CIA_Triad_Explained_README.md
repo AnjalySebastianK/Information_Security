@@ -74,13 +74,3 @@ Understanding and applying the CIA Triad helps organizations:
 - Prevent costly breaches and downtime
 
 ---
-
-## Further Learning
-
-Explore these topics to deepen your understanding:
-- Risk management and threat modelling
-- Security policies and frameworks (e.g., ISO/IEC 27001)
-- Incident response and recovery
-- Ethical hacking and penetration testing
-
----
